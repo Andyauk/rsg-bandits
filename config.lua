@@ -1,6 +1,6 @@
 Config = {}
 
-Config.Debuf = false
+Config.Debug = false
 
 Config.Cooldown = 300 -- amount in seconds
 Config.TriggerBandits = 200
